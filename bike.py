@@ -6,7 +6,7 @@ class Bike:
         self.gear_count = gear_count
 
     def display_info(self):
-        return f"{self.brand} {self.type} with {self.gear_count} gears"
+        return f"\n{self.brand} {self.type} with {self.gear_count} gears"
 
     def ring_bell(self):
         return "The bike bell rings."
