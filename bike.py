@@ -7,3 +7,9 @@ class Bike:
 
     def display_info(self):
         return f"{self.brand} {self.type} with {self.gear_count} gears"
+
+    def ring_bell(self):
+        return "The bike bell rings."
+
+    def apply_brakes(self):
+        return "The bike is slowing down."
