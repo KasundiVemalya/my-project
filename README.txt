@@ -1,8 +1,8 @@
-Hello everyone!!! I'm Kasundi Vemalya and welcome to my first Git project. 
+Hello everyone!!! I'm Kasundi Vemalya and Welcome to my first Git project. 
 
-My Project
+My Project:-
 
-This is a simple Python project with classes for a car, a bike, and a truck. Each class is in a separate file, and there is a main file to run the program.
+- This is a simple Python project with classes for a car, a bike, and a truck. Each class is in a separate file, and there is a main file to run the program.
 
 Files:-
 
@@ -11,6 +11,6 @@ Files:-
 - truck.py: Contains the `Truck` class (added by a collaborator).
 - main.py: The main file to run the program.
 
-How to Run
+How to Run:-
 
 - To run the program, execute main.py
